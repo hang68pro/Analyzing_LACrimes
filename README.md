@@ -1,4 +1,5 @@
 Analyzing Crimes in Los Angeles
+
 This is a project to support the Los Angeles Police Department (LAPD) by analyzing crime data to identify patterns in criminal behavior. 
 They plan to use the insights to allocate resources effectively to tackle various crimes in different areas.
 They have provided you with a single dataset to use. A summary and preview are provided below.
